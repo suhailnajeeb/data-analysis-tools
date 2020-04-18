@@ -1,2 +1,2 @@
-# eda-template
-Template for EDA Pipelines
+# data-analysis-tools
+Template for Data Analysis Tools
